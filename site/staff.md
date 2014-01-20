@@ -23,8 +23,3 @@ with the website, the server is down, etc.
 See one of the DashNet ZNC accounts connected somewhere, or does our Minecraft 
 server intrigue you? Contact him if you want in.
 
-### Sephira
-
-She's shy but friendly. Sephira is one of the newer additions to the family, 
-she is currently learning about operating and proceeding very well in this.
-
