@@ -13,7 +13,7 @@ Might sometimes be online as `shadowh511`, `lyska` or `Xena`.
 
 The founder of DashNet, an IRC network that merged into ShadowNET, a capable 
 Linux system administrator who is still learning (as we all are), but has 
-proven himself to be ready for the task. Bug him if there’s something wrong 
+proven himself to be ready for the task. Bug him if there's something wrong 
 with the website, the server is down, etc.
 
 ## Operators

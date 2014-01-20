@@ -119,52 +119,37 @@ pre { margin-left: 2em; }
 <h1>Setup</h1>
 <h3>Installation:</h3>
 <ol>
+<li>Set up an IRC network using Charybdis, ShadowIRCD, elemental-ircd or any other
+   TS6 ircd. Note that regardless of what TS6 irc daemon you end up choosing,
+   your protocol module will have to be <code>elemental-ircd</code>.</li>
+<li>Create a link block like <a href="https://gist.github.com/lyska/9c8a8e1a1102cbee61c7">this</a>.</li>
+<li>Copy <code>etc/config.json.example</code> to a file of your choice. Read <code>Configuration.markdown</code>
+   for more detailed explanation about each of the configuration elements.</li>
+<li>Set up an account for your pesudoservice inside your IRC services package.
+   This is needed for the automatic vhost rejection feature as well as many
+   others waiting to be written.</li>
+<li>Configure as needed for your deployment.</li>
+<li>Run <code>./cod /path/to/your/config.json</code>. By default it will use the <code>config.json</code>
+   in the current working directory.</li>
 <li>
-Set up an IRC network using Charybdis, ShadowIRCD, elemental-ircd or any other    TS6 ircd. Note that regardless of what TS6 irc daemon you end up choosing,    your protocol module will have to be <code>elemental-ircd</code>.
-</li><li>
-Create a link block like <a href="https://gist.github.com/lyska/9c8a8e1a1102cbee61c7">this</a>.
-</li><li>
-Copy <code>etc/config.json.example</code> to a file of your choice. Read <code>Configuration.markdown</code>    for more detailed explanation about each of the configuration elements.
-</li><li>
-Set up an account for your pesudoservice inside your IRC services package.    This is needed for the automatic vhost rejection feature as well as many    others waiting to be written.
-</li><li>
-Configure as needed for your deployment.
-</li><li>
-Run <code>./cod /path/to/your/config.json</code>. By default it will use the <code>config.json</code>    in the current working directory.
-</li><li>
 <p><code>@modload</code> the modules you want, a useful list is:</p>
 </li>
-</ol>
-<ul>
 <li>
-dnsbl
-</li><li>
-dnsblannounce
-</li><li>
-help
-</li><li>
-killannounce
-</li><li>
-killonfailoper
-</li><li>
-memusage
-</li><li>
-relayhostserv
-</li><li>
-resv
-</li><li>
-say
-</li><li>
-sendfile
-</li><li>
-twitchtv
-</li><li>
-youtube
+<p>dnsbl</p>
 </li>
-</ul>
-<p>The weather script will require a free API key from <a href="http://worldweatheronline.com">WorldWeatherOnline</a>.</p>
-
-</div>
+<li>dnsblannounce</li>
+<li>help</li>
+<li>killannounce</li>
+<li>killonfailoper</li>
+<li>memusage</li>
+<li>relayhostserv</li>
+<li>resv</li>
+<li>say</li>
+<li>sendfile</li>
+<li>twitchtv</li>
+<li>youtube</li>
+</ol>
+<p>The weather script will require a free API key from <a href="http://worldweatheronline.com">WorldWeatherOnline</a>.</p></div>
 <div id="footer">
 <div class="right"><a href="http://nibble.develsec.org/projects/sw.html">Powered by sw</a></div>
 </div>
