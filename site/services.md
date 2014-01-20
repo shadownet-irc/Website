@@ -11,7 +11,7 @@ today. More information available on their website. Just click the title!
 
 ZNC, an IRC Network Bouncer, keeps your connection online, even when your 
 client is closed. It keeps your channels, PMs, modes and all saved for you 
-until you login again, making it seems as if you never went offline.
+until you login again, making it seem as if you never went offline.
 
 We currently offer several bouncers, please poke either Xe or Lore on IRC to 
 get more information.
@@ -27,7 +27,7 @@ and is stupidly fast. See more [here](cod).
 Join the server that started it all at `mc.yolo-swag.com`. Server chat is 
 relayed to `#6fmc`. 
 
-The `rdash.in` server is currently down, but this page will be updated when it 
+The `rdash.in` server is currently down for maintenance, but this page will be updated when it 
 is back.
 
 ## Janus
