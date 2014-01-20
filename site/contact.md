@@ -5,5 +5,5 @@ up.
 
  - Xe - [lyska@yolo-swag.com](mailto:lyska@yolo-swag.com)
  - Caerdwyn - [caerdwyn@rdash.in](mailto:caerdwyn@rdash.in)
- - Lore - [lore@derpymail.com](mailto:lore@derpymail.com)
+ - Lore - [lore@rdash.in](mailto:lore@rdash.in)
 
