@@ -103,66 +103,32 @@ pre { margin-left: 2em; }
 <body>
 <div class="header">
 <h1 class="headerTitle">
-<a href="../index.html">ShadowNET IRC</a> <span class="headerSubtitle"></span>
+<a href="index.html">ShadowNET IRC</a> <span class="headerSubtitle"></span>
 </h1>
 </div>
 <div id="side-bar">
 <ul>
 <li><a href="index.html">.</a></li>
-<li><a href="../index.html">..</a></li>
-<li><a href="credits.html">credits</a></li>
-<li><a href="install.html">install</a></li>
-<li><a href="license.html">license</a></li>
+<li><a href="blog/index.html">blog</a></li>
+<li><a href="cod/index.html">cod</a></li>
+<li><a href="contact.html">contact</a></li>
+<li><a href="policy.html">policy</a></li>
+<li><a href="servers.html">servers</a></li>
+<li><a href="services.html">services</a></li>
+<li><a href="staff.html">staff</a></li>
+<li><a href="stream.html">stream</a></li>
+<li><a href="webchat.html">webchat</a></li>
 </ul>
 </div>
 <div id="main">
-<h1>Setup</h1>
-<h3>Installation:</h3>
-<ol>
-<li>
-Set up an IRC network using Charybdis, ShadowIRCD, elemental-ircd or any other    TS6 ircd. Note that regardless of what TS6 irc daemon you end up choosing,    your protocol module will have to be <code>elemental-ircd</code>.
-</li><li>
-Create a link block like <a href="https://gist.github.com/lyska/9c8a8e1a1102cbee61c7">this</a>.
-</li><li>
-Copy <code>etc/config.json.example</code> to a file of your choice. Read <code>Configuration.markdown</code>    for more detailed explanation about each of the configuration elements.
-</li><li>
-Set up an account for your pesudoservice inside your IRC services package.    This is needed for the automatic vhost rejection feature as well as many    others waiting to be written.
-</li><li>
-Configure as needed for your deployment.
-</li><li>
-Run <code>./cod /path/to/your/config.json</code>. By default it will use the <code>config.json</code>    in the current working directory.
-</li><li>
-<p><code>@modload</code> the modules you want, a useful list is:</p>
-</li>
-</ol>
-<ul>
-<li>
-dnsbl
-</li><li>
-dnsblannounce
-</li><li>
-help
-</li><li>
-killannounce
-</li><li>
-killonfailoper
-</li><li>
-memusage
-</li><li>
-relayhostserv
-</li><li>
-resv
-</li><li>
-say
-</li><li>
-sendfile
-</li><li>
-twitchtv
-</li><li>
-youtube
-</li>
-</ul>
-<p>The weather script will require a free API key from <a href="http://worldweatheronline.com">WorldWeatherOnline</a>.</p>
+<h1>Services</h1>
+<h2><a href="http://atheme.net">Atheme IRC Services</a></h2>
+<p>Atheme is a feature-packed, extremely customizable IRC services daemon that is  secure, stable and scalable. Compatible with most IRC v3 compliant daemons and  some that aren't, it is one of the most widely known and used services packages  today. More information available on their website. Just click the title!</p>
+<h2>ZNC Network Bouncer</h2>
+<p>ZNC, an IRC Network Bouncer, keeps your connection online, even when your  client is closed. It keeps your channels, PM’s, modes and all saved for you  until you login again, making it seems as if you never went offline.</p>
+<p>We currently offer several bouncers, please poke either Xe or Lore on IRC to  get more information.</p>
+<h2><a href="http://github.com/lyska/cod">Cod</a></h2>
+<p>Our home-grown extended services package. It handles a lot of things that an  IRC bot normally would, but has the advantage of being a full blown server link  and is stupidly fast. See more <a href="cod">here</a>.</p>
 
 </div>
 <div id="footer">
