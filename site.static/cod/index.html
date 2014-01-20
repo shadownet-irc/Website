@@ -97,29 +97,72 @@ pre { margin-left: 2em; }
 <body>
 <div class="header">
 <h1 class="headerTitle">
-<a href="index.html">ShadowNET IRC</a> <span class="headerSubtitle"></span>
+<a href="../index.html">ShadowNET IRC</a> <span class="headerSubtitle"></span>
 </h1>
 </div>
 <div id="side-bar">
 <ul>
-<li><a href="index.html">.</a></li>
-<li><a href="blog/index.html">blog</a></li>
-<li><a href="cod/index.html">cod</a></li>
-<li><a href="policy.html">policy</a></li>
-<li><a href="servers.html">servers</a></li>
-<li><a href="staff.html">staff</a></li>
-<li><a href="stream.html">stream</a></li>
-<li><a href="webchat.html">webchat</a></li>
+<li><a href="../index.html">..</a></li>
+<li><a href="credits.html">credits</a></li>
+<li><a href="install.html">install</a></li>
+<li><a href="license.html">license</a></li>
 </ul>
 </div>
 <div id="main">
-<h1>Webchat</h1>
-<center>
-<iframe src="http://sparkle.yolo-swag.com/webchat" width="800" 
-height="600"></iframe>
-</center>
-<p>This webchat client requires flash. If you don't have flash, you need to  install it.</p>
-<p>If you want to make this webchat bigger, click  <a href="http://sparkle.yolo-swag.com/webchat">here</a>.</p>
+<h1>Cod</h1>
+<p>Extended IRC services in Python</p>
+<p>Installation directions are in <code>doc/INSTALL.markdown</code>. Directions for setting up Atheme integration are in <code>doc/funserv.markdown</code>. If you have any questions, please ask in <code>#cod</code> on <code>irc.yolo-swag.com</code>.</p>
+<h3>Features:</h3>
+<ul>
+<li>
+Asynchronous socket handling    (and an easy way for modules to add socket handlers)
+</li><li>
+Dynamic channel joins
+</li><li>
+Forking to background
+</li><li>
+Logging to snoop channel
+</li><li>
+Modular loading and unloading
+</li><li>
+No specific libc dependency (tested on glibc, uclibc and musl)
+</li><li>
+Rehashing config file
+</li><li>
+Separation of user and oper commands
+</li><li>
+SQLite database
+</li><li>
+TS6 link protocol support
+</li><li>
+Virtual environment support
+</li>
+</ul>
+<h3>Goals:</h3>
+<ul>
+<li>
+DNS record editing (Tortoise Labs)
+</li><li>
+Feature-completeness with skybot
+</li><li>
+MPD playlist manipulation
+</li><li>
+User statistics collection
+</li><li>
+Follow anonyminity standards of the Tor Project
+</li><li>
+Web GUI for administration
+</li>
+</ul>
+<h3>Stretch Goals:</h3>
+<ul>
+<li>
+Automated provisioning and linking of temporary overflow IRC daemons
+</li><li>
+Spam filtering (opt-in only)
+</li>
+</ul>
+<p>The official channel for Cod is <code>#cod</code> on <code>irc.yolo-swag.com</code>. Come take a visit and say hi!</p>
 
 </div>
 <div id="footer">
