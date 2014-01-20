@@ -18,8 +18,7 @@ authentication, and our own custom pesudoservice bot `ShadowNET` that will sit
 in your channel and expand youtube links among other things.
 
 Want to chat but don't want to crack out a full blown client? You can join our 
-main lobby `#niichan` through this handy 
-[webchat](http://sparkle.yolo-swag.com/webchat) link.
+main lobby `#niichan` through this handy [webchat](webchat.html) link.
 
 ## Rules
 
