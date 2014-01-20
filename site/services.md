@@ -7,7 +7,7 @@ secure, stable and scalable. Compatible with most IRCv3 compliant daemons and
 some that aren't, it is one of the most widely known and used services packages 
 today. More information available on their website. Just click the title!
 
-## ZNC Network Bouncer
+## [ZNC Network Bouncer](http://znc.in)
 
 ZNC, an IRC Network Bouncer, keeps your connection online, even when your 
 client is closed. It keeps your channels, PMs, modes and all saved for you 
