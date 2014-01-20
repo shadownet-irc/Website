@@ -27,8 +27,8 @@ and is stupidly fast. See more [here](cod).
 Join the server that started it all at `mc.yolo-swag.com`. Server chat is 
 relayed to `#6fmc`. 
 
-The `rdash.in` server is currently down for maintenance, but this page will be updated when it 
-is back.
+The `rdash.in` server is online, following a few upgrades.
+Want to join? Contact Caerdwyn or Lore to be whitelisted!
 
 ## Janus
 
