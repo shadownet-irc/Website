@@ -22,3 +22,11 @@ Our home-grown extended services package. It handles a lot of things that an
 IRC bot normally would, but has the advantage of being a full blown server link 
 and is stupidly fast. See more [here](cod).
 
+## Minecraft
+
+Join the server that started it all at `mc.yolo-swag.com`. Server chat is 
+relayed to `#6fmc`. 
+
+The `rdash.in` server is currently down, but this page will be updated when it 
+is back.
+

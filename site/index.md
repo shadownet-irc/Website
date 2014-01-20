@@ -19,7 +19,8 @@ use is not recommended.
 
 We feature `ChanServ`, `NickServ`, `BotServ`, `GameServ`, `HostServ`, SASL 
 authentication, and our own custom pesudoservice bot `ShadowNET` that will sit 
-in your channel and expand youtube links among other things.
+in your channel and expand youtube links among other things. For more 
+information, click [here](services.html).
 
 Want to chat but don't want to crack out a full blown client? You can join our 
 main lobby `#niichan` through this handy [webchat](webchat.html) link.
