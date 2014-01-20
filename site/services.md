@@ -30,3 +30,9 @@ relayed to `#6fmc`.
 The `rdash.in` server is currently down, but this page will be updated when it 
 is back.
 
+## Janus
+
+Want to link your channel back to its previous home on another network? Contact 
+one of the staff in `#help` and let us know, we'll do what we can to link it 
+back together.
+
