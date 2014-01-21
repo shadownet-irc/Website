@@ -67,14 +67,6 @@
 
               last message sent to the channel will be blocked.
 
-     +M     - Immune. Opers cannot be kicked from the channel. May
-              be set by server admins regardless of channel status.
-              Users will not see this mode at all. May only be set by
-              server admins.
-
-              Opers may still be kicked from the channel by services or
-              any other u-lined server.
-
      +O     - Oper only channel. Only opers will be able to join.
 
      +A     - Admin only channel. Only admins will be able to join.
