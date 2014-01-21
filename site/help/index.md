@@ -6,3 +6,6 @@ consulting help from our `#help` channel.
 Click [here](cmode.html) to see the currently available channel modes on 
 ShadowNET.
 
+Click [here](cmode.html) to see the currently available user modes on 
+ShadowNET.
+
