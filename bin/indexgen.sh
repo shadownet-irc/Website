@@ -7,7 +7,7 @@ function genIndex {
 			continue
 		fi
 
-		head $file -n3
+		head $file -n5
 
 		echo
 		echo "[Continue reading]($NAME.html)"
@@ -19,4 +19,6 @@ cd site/blog
 
 rm index.md
 genIndex > index.md
+
+echo "Index generation complete"
 
