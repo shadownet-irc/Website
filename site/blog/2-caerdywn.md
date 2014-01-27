@@ -30,4 +30,4 @@ look, here we are now, one big happy family! :P
 As always, if you have any questions, comments, or concerns, feel free to 
 contact any of us using the links on the contact page!
 
-~Caaerdwyn
+~Caerdwyn
