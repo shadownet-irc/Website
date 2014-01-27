@@ -9,5 +9,5 @@ a residential connection. After the upgrade to Minecraft pre-release 1.7, the
 minecraft server admin's interest faded, but the IRC network stood strong.
 
 After some upgrades to the IRC daemon, the ShadowNET you know was formed 
-through the alliance of Caerdywn and Xe.
+through the alliance of Caerdwyn and Xe.
 
