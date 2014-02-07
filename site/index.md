@@ -1,5 +1,12 @@
 ## History
 
+<!--[if !(lte IE 8)]><!--> 
+   <script type="text/javascript"> (function(){var 
+   e=document.createElement("script");e.type="text/javascript";e.async=true;e.src=document.location.protocol+"//d1agz031tafz8n.cloudfront.net/thedaywefightback.js/widget.min.js";var 
+   t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+      </script>
+      <!--<![endif]-->
+
 ShadowNET was created initially so that the main administrator could better 
 keep tabs on the chat that his Minecraft server was running while he was AFK. 
 It has since grown into a globally accessible chat network with at least 90% 
