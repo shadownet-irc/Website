@@ -4,6 +4,8 @@ This list is not exhaustive.
 
 ## Administrators
 
+In no particular order
+
 ### Xe
 
 The founder of ShadowNET, Xe has guided the creation of elemental-ircd and 
@@ -17,6 +19,17 @@ The founder of DashNet, an IRC network that merged into ShadowNET, a capable
 Linux system administrator who is still learning (as we all are), but has 
 proven himself to be ready for the task. Bug him if there's something wrong 
 with the website, the server is down, etc.
+
+### Quora
+
+One of the main stakeholders in Elemental-IRCd and Cod.
+
+### Zazie
+
+Some person Xe initially found slaving at the QA mines of Microsoft Xbox 
+hardware testing. Rescued from this former home of moronic users (and 
+PurpleSurge), they now thrive here as a core part of the staff. Experienced in 
+Anope, Atheme, and some other third thing.
 
 ## Operators
 
