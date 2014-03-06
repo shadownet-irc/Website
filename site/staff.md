@@ -1,10 +1,6 @@
 # Staff
 
-This list is not exhaustive.
-
-## Administrators
-
-In no particular order
+This list is not exhaustive and is in no particular order.
 
 ### Xe
 
@@ -30,8 +26,6 @@ Some person Xe initially found slaving at the QA mines of Microsoft Xbox
 hardware testing. Rescued from this former home of moronic users (and 
 PurpleSurge), they now thrive here as a core part of the staff. Experienced in 
 Anope, Atheme, and some other third thing.
-
-## Operators
 
 ### Lore
 
