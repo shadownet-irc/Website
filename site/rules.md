@@ -39,6 +39,8 @@ picked for the role.
 ShadowNET staff will never force you to join channels or forcibly change your 
 user modes as the IRC daemon we use does not allow that to be done.
 
+ShadowNET staff may kill or kline users with or without reason.
+
 ## Session Limits
 
 If you are willing to offer a bouncer or have other needs to raise your session 
