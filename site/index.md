@@ -17,8 +17,7 @@ things that come up. It is also the test network of
 ## Technology
 
 We run Atheme services and our own elemental-ircd daemon as well as are the
-testing ground for [Cod extended services](http://github.com/lyska/cod) and 
-eventually its replacement [Eon](http://github.com/lyska/eon).
+testing ground for [Cod extended services](http://github.com/cod-services/cod). 
 
 The main round robin is [`irc.yolo-swag.com`](irc://irc.yolo-swag.com) 
 listening on port `6667` and SSL port `6697`. Other ports may work but their 
