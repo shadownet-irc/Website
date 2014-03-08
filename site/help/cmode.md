@@ -74,6 +74,9 @@
 
      +S     - SSL only channel. Only clients connected via SSL may join.
 
+     +N     - Roleplay channel. Allows use of the special roleplay commands.
+              See roleplay help page for more information.
+
 ### WITH PARAMETERS:
 
      +f     - Forward.  Forwards users who cannot join because of +i,
