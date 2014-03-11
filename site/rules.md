@@ -16,9 +16,9 @@ Aka: the 5 "don'ts"
 Depending on the severity of the infraction, measures may be taken at a network 
 level.
 
-Channel owners may run their channel as they see fit. They do not have to give 
-justification for any action they take, but doing such a thing is usually 
-a good idea.
+Channel owners and/or operators may run their channel as they see fit. They do 
+not have to give justification for any action they take, but doing such a thing 
+is usually a good idea.
 
 Your IP address should remain cloaked unless you remove the cloak or other 
 mitigating circumstances. For logistics reasons, ShadowNET staff will always 
