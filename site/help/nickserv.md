@@ -56,3 +56,14 @@ Example:
 The `REGAIN` command will essentially do the same thing, but it will also change
 your nickname to the desired nickname.
 
+---
+
+This is by no means exhaustive and `NickServ` has many more functions. To see 
+these in detail, use the following command:
+
+    /msg NickServ HELP
+
+And for more detail on a single command:
+
+    /msg NickServ HELP command
+
