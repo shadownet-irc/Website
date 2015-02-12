@@ -23,9 +23,10 @@ One of the main stakeholders in Elemental-IRCd and Cod.
 ### [Zazie](mailto:zazie@yolo-swag.com)
 
 Some person Xe initially found (and rescued from) slaving at the QA mines of 
-Microsoft Xbox hardware testing. Rescued from this former home of moronic users 
-(and PurpleSurge), they now thrive here as a core part of the staff. 
-Experienced in Anope, Atheme, and some other third thing.
+Microsoft Xbox hardware testing. Rescued from this former home of moronic users and,
+freed from networks past, they now thrive here as a core part of the staff. 
+Experienced in most aspects of IRC operation, with experience in these daemons;
+Anope, Atheme, Charybdis, Elemental, InspIRCd, and Unreal. 
 
 ### Lore
 
